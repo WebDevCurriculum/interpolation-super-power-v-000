@@ -1,7 +1,7 @@
 # Write your #display_rainbow method here
 # accepts an array of colors as its argument
 
-=begin
+
 
 $colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 $i = 0
@@ -11,8 +11,7 @@ def rainbow_method(colors)
         $i+=1
     end
 end
-=end
-colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+=begin colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 def display_rainbow(colors)
 
-end 
+=
