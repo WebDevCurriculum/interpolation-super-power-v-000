@@ -11,8 +11,7 @@ def display_rainbow(colors)
         $i+=1
     end
 end
-=begin colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+=begin
+colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 def display_rainbow(colors)
-=end 
-
-
+=end
