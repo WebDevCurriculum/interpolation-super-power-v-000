@@ -10,6 +10,7 @@ def display_rainbow(colors)
      print "#{$colors[$i].chars.first.capitalize}: #{$colors[$i]}, "
         $i+=1
     end
+    print $colors
 end
 =begin
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
