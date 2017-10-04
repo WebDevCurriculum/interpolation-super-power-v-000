@@ -13,6 +13,6 @@ def rainbow_method(colors)
 end
 =end
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
-def rainbow_method(colors)
+def display_rainbow(colors)
 
 end 
