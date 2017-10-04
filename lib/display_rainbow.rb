@@ -12,3 +12,4 @@ def rainbow_method(colors)
     end
 end
 =end
+colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
